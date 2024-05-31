@@ -1,2 +1,2 @@
 # BitZaura-Tokenomics
-BitZaura SmartContract
+BitZaura Technical Spesification
